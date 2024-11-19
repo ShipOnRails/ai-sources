@@ -76,6 +76,8 @@ mileszs/wicked_pdf
 mislav/will_paginate
 mperham/sidekiq
 norman/friendly_id
+parolkar/RayRayHooray
+parolkar/smstrolley
 patterns-ai-core/langchainrb
 patterns-ai-core/langchainrb_rails
 pawurb/rails-pg-extras
