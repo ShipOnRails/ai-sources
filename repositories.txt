@@ -91,6 +91,7 @@ public-activity/public_activity
 railsadminteam/rails_admin
 roidrage/lograge
 rpush/rpush
+rspec/rspec
 rspec/rspec-rails
 rswag/rswag
 rubocop/rails-style-guide
