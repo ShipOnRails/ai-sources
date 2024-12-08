@@ -124,6 +124,7 @@ sidekiq-scheduler/sidekiq-scheduler
 simplecov-ruby/simplecov
 sinatra/sinatra
 solidusio/solidus
+sporkmonger/addressable
 standardrb/standard
 stefankroes/ancestry
 svenfuchs/rails-i18n
