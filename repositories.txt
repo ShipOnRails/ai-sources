@@ -44,6 +44,7 @@ deivid-rodriguez/byebug
 doctolib/safe-pg-migrations
 doorkeeper-gem/doorkeeper
 drapergem/draper
+drwl/annotaterb
 dry-rb/dry-initializer
 ErwinM/acts_as_tenant
 excid3/noticed
