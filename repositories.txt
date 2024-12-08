@@ -117,6 +117,7 @@ sidekiq-scheduler/sidekiq-scheduler
 simplecov-ruby/simplecov
 sinatra/sinatra
 solidusio/solidus
+standardrb/standard
 stefankroes/ancestry
 svenfuchs/rails-i18n
 teamcapybara/capybara
