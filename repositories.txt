@@ -104,6 +104,7 @@ rubocop/rubocop
 rubocop/rubocop-performance
 rubocop/rubocop-rails
 rubocop/rubocop-rspec
+ruby/rake
 ruby-concurrency/concurrent-ruby
 RubyMoney/monetize
 RubyMoney/money
