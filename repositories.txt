@@ -5,6 +5,7 @@ activerecord-hackery/ransack
 ActsAsParanoid/acts_as_paranoid
 airbnb/ruby
 alexreisner/geocoder
+alexrudall/ruby-openai
 ankane/active_median
 ankane/ahoy
 ankane/ahoy_email
