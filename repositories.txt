@@ -72,6 +72,8 @@ kjvarga/sitemap_generator
 kpumuk/meta-tags
 lostisland/faraday
 magnusvk/counter_culture
+marcoroth/turbo_power
+marcoroth/turbo_power-rails
 mbleigh/acts-as-taggable-on
 mdp/rotp
 meilisearch/meilisearch-rails
