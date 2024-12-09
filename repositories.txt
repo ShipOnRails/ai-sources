@@ -87,6 +87,7 @@ micke/valid_email2
 mileszs/wicked_pdf
 mislav/will_paginate
 norman/friendly_id
+ohler55/ox
 patterns-ai-core/langchainrb
 patterns-ai-core/langchainrb_rails
 pawurb/rails-pg-extras
