@@ -70,6 +70,7 @@ jnunemaker/httparty
 jpmcgrath/shortener
 jwt/ruby-jwt
 kaminari/kaminari
+kaspth/oaken
 kjvarga/sitemap_generator
 kpumuk/meta-tags
 lostisland/faraday
