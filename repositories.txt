@@ -121,6 +121,7 @@ rubysherpas/paranoia
 ryanb/letter_opener
 ryanto/acts_as_votable
 scambra/devise_invitable
+serpapi/nokolexbor
 shadabahmed/logstasher
 Shopify/better-html
 Shopify/bootsnap
