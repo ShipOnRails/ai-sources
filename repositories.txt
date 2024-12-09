@@ -62,6 +62,7 @@ gocardless/ibandit
 heartcombo/devise
 heartcombo/simple_form
 httprb/http
+ilyakatz/data-migrate
 invopop/prawn-attachment
 jamesmartin/inline_svg
 janko/image_processing
