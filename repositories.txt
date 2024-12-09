@@ -82,7 +82,6 @@ meilisearch/meilisearch-rails
 micke/valid_email2
 mileszs/wicked_pdf
 mislav/will_paginate
-mperham/sidekiq
 norman/friendly_id
 patterns-ai-core/langchainrb
 patterns-ai-core/langchainrb_rails
@@ -122,6 +121,7 @@ Shopify/bootsnap
 Shopify/erb-lint
 Shopify/pitchfork
 Shopify/ruby-style-guide
+sidekiq/sidekiq
 sidekiq-scheduler/sidekiq-scheduler
 simplecov-ruby/simplecov
 sinatra/sinatra
