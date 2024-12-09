@@ -150,5 +150,6 @@ truemail-rb/truemail
 validates-email-format-of/validates_email_format_of
 varvet/pundit
 voormedia/rails-erd
+whitesmith/rubycritic
 whomwah/rqrcode
 yolk/valvat
