@@ -33,6 +33,7 @@ brendon/acts_as_list
 brendon/ranked-model
 bullet-train-co/nice_partials
 Casecommons/pg_search
+charkost/prosopite
 collectiveidea/interactor
 collectiveidea/interactor-rails
 countries/countries
