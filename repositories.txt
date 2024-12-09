@@ -125,6 +125,7 @@ Shopify/ruby-style-guide
 sidekiq-scheduler/sidekiq-scheduler
 simplecov-ruby/simplecov
 sinatra/sinatra
+socketry/async
 solidusio/solidus
 sporkmonger/addressable
 standardrb/standard
