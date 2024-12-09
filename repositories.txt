@@ -47,6 +47,7 @@ ErwinM/acts_as_tenant
 excid3/noticed
 excid3/prefixed_ids
 excid3/refer
+faker-ruby/faker
 ffaker/ffaker
 flyerhzm/bullet
 flyerhzm/rails_best_practices
