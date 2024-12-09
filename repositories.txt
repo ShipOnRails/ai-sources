@@ -25,6 +25,7 @@ ankane/strong_migrations
 Apipie/apipie-rails
 basecamp/kamal
 basecamp/kamal-proxy
+bblimke/webmock
 BetterErrors/better_errors
 bkeepers/dotenv
 boazsegev/iodine
