@@ -32,6 +32,7 @@ boazsegev/iodine
 brendon/acts_as_list
 brendon/ranked-model
 bullet-train-co/nice_partials
+byroot/activerecord-typedstore
 Casecommons/pg_search
 caxlsx/caxlsx
 charkost/prosopite
@@ -51,6 +52,7 @@ drapergem/draper
 drwl/annotaterb
 dry-rb/dry-initializer
 ErwinM/acts_as_tenant
+evilmartians/keynote
 excid3/noticed
 excid3/prefixed_ids
 excid3/refer
@@ -67,11 +69,13 @@ httprb/http
 ilyakatz/data-migrate
 invopop/prawn-attachment
 jamesmartin/inline_svg
+janko/down
 janko/image_processing
 jhawthorn/discard
 jnunemaker/flipper
 jnunemaker/httparty
 jpmcgrath/shortener
+julik/zip_kit
 jwt/ruby-jwt
 kaminari/kaminari
 kaspth/oaken
@@ -81,6 +85,7 @@ lostisland/faraday
 magnusvk/counter_culture
 marcoroth/turbo_power
 marcoroth/turbo_power-rails
+martijn/xsv
 mbleigh/acts-as-taggable-on
 mdp/rotp
 meilisearch/meilisearch-rails
@@ -100,6 +105,7 @@ prawnpdf/prawn
 presidentbeef/brakeman
 prey/gdpr_rails
 public-activity/public_activity
+rack/rack
 railsadminteam/rails_admin
 roidrage/lograge
 rpush/rpush
@@ -121,6 +127,7 @@ rubysherpas/paranoia
 ryanb/letter_opener
 ryanto/acts_as_votable
 scambra/devise_invitable
+sendgrid/sendgrid-ruby
 serpapi/nokolexbor
 shadabahmed/logstasher
 Shopify/better-html
@@ -146,9 +153,12 @@ tinfoil/devise-two-factor
 topfunky/gruff
 toy/image_optim
 trailblazer/trailblazer
+travisjeffery/timecop
 truemail-rb/truemail
 validates-email-format-of/validates_email_format_of
 varvet/pundit
+vcr/vcr
 voormedia/rails-erd
+whitesmith/rubycritic
 whomwah/rqrcode
 yolk/valvat
