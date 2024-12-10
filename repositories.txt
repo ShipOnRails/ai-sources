@@ -82,6 +82,7 @@ lostisland/faraday
 magnusvk/counter_culture
 marcoroth/turbo_power
 marcoroth/turbo_power-rails
+martijn/xsv
 mbleigh/acts-as-taggable-on
 mdp/rotp
 meilisearch/meilisearch-rails
