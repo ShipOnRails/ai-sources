@@ -51,6 +51,7 @@ drapergem/draper
 drwl/annotaterb
 dry-rb/dry-initializer
 ErwinM/acts_as_tenant
+evilmartians/keynote
 excid3/noticed
 excid3/prefixed_ids
 excid3/refer
