@@ -74,6 +74,7 @@ jhawthorn/discard
 jnunemaker/flipper
 jnunemaker/httparty
 jpmcgrath/shortener
+julik/zip_kit
 jwt/ruby-jwt
 kaminari/kaminari
 kaspth/oaken
