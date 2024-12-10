@@ -32,6 +32,7 @@ boazsegev/iodine
 brendon/acts_as_list
 brendon/ranked-model
 bullet-train-co/nice_partials
+byroot/activerecord-typedstore
 Casecommons/pg_search
 caxlsx/caxlsx
 charkost/prosopite
