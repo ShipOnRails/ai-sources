@@ -148,6 +148,7 @@ tinfoil/devise-two-factor
 topfunky/gruff
 toy/image_optim
 trailblazer/trailblazer
+travisjeffery/timecop
 truemail-rb/truemail
 validates-email-format-of/validates_email_format_of
 varvet/pundit
