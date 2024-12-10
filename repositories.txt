@@ -69,6 +69,7 @@ httprb/http
 ilyakatz/data-migrate
 invopop/prawn-attachment
 jamesmartin/inline_svg
+janko/down
 janko/image_processing
 jhawthorn/discard
 jnunemaker/flipper
