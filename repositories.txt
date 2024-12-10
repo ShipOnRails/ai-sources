@@ -151,6 +151,7 @@ trailblazer/trailblazer
 truemail-rb/truemail
 validates-email-format-of/validates_email_format_of
 varvet/pundit
+vcr/vcr
 voormedia/rails-erd
 whitesmith/rubycritic
 whomwah/rqrcode
