@@ -21,6 +21,7 @@ ankane/logstop
 ankane/pghero
 ankane/pretender
 ankane/searchkick
+ankane/slowpoke
 ankane/strong_migrations
 Apipie/apipie-rails
 basecamp/kamal
