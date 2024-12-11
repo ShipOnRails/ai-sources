@@ -135,6 +135,7 @@ Shopify/bootsnap
 Shopify/erb-lint
 Shopify/pitchfork
 Shopify/ruby-style-guide
+shrinerb/shrine
 sidekiq/sidekiq
 sidekiq-scheduler/sidekiq-scheduler
 simplecov-ruby/simplecov
