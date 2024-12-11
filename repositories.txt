@@ -129,6 +129,7 @@ ryanto/acts_as_votable
 scambra/devise_invitable
 sendgrid/sendgrid-ruby
 serpapi/nokolexbor
+sferik/twitter-ruby
 shadabahmed/logstasher
 Shopify/better-html
 Shopify/bootsnap
