@@ -21,6 +21,7 @@ ankane/logstop
 ankane/pghero
 ankane/pretender
 ankane/searchkick
+ankane/slowpoke
 ankane/strong_migrations
 Apipie/apipie-rails
 basecamp/kamal
@@ -129,12 +130,14 @@ ryanto/acts_as_votable
 scambra/devise_invitable
 sendgrid/sendgrid-ruby
 serpapi/nokolexbor
+sferik/twitter-ruby
 shadabahmed/logstasher
 Shopify/better-html
 Shopify/bootsnap
 Shopify/erb-lint
 Shopify/pitchfork
 Shopify/ruby-style-guide
+shrinerb/shrine
 sidekiq/sidekiq
 sidekiq-scheduler/sidekiq-scheduler
 simplecov-ruby/simplecov
@@ -152,6 +155,7 @@ tigrish/devise-i18n
 tinfoil/devise-two-factor
 topfunky/gruff
 toy/image_optim
+trailblazer/cells
 trailblazer/trailblazer
 travisjeffery/timecop
 truemail-rb/truemail
