@@ -155,6 +155,7 @@ tigrish/devise-i18n
 tinfoil/devise-two-factor
 topfunky/gruff
 toy/image_optim
+trailblazer/cells
 trailblazer/trailblazer
 travisjeffery/timecop
 truemail-rb/truemail
